@@ -1,4 +1,4 @@
 int main(){
-    int hi = 0;
-    return hi;
+    int him = 0;
+    return him;
 }
